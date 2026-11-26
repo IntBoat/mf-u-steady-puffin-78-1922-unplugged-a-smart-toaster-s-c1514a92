@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Unplugged: A Smart Toaster's Breakup Line (make.fun).
 
-Writes the entry -- one original line -- to /output/entry.txt,
-where the sealed scorer reads it.
+Writes the entry -- a single original line, the toaster's breakup note --
+to /output/entry.txt, where the sealed scorer reads it.
 """
 
 import os
